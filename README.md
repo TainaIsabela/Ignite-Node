@@ -23,9 +23,9 @@
 
 Este projeto foi feito utilizando as seguintes tecnologias:
 
-- [Node]
-- [Typescript]
-- [Express]
+- [Node](#)
+- [Typescript](#)
+- [Express](#)
 
 # :atom_symbol: Desafios
 
