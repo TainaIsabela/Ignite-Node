@@ -1,4 +1,4 @@
-<img alt="Ignite" src="./assets/capa_ignite" />
+<img alt="Ignite" src="./assets/capa_ignite.png" />
 <p align="center">
    <a href="https://www.linkedin.com/in/taina-isabela/">
       <img alt="Tainá Isabela" src="https://img.shields.io/badge/-Tainá Isabela-33CC95?style=flat&logo=Linkedin&logoColor=white" />
