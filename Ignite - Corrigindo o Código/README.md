@@ -9,7 +9,7 @@
 <p align="center">“Faça seu melhor, mas sempre com prazo de entrega”!</blockquote>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/TainaIsabela/ignite-template-corrigindo-o-codigo?style=flat">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/TainaIsabela/Ignite-Node/tree/master/Ignite%20-%20Corrigindo%20o%20Código?style=flat">
 
   <a href="https://rocketseat.com.br">
     <img alt="Made by Tainá Isabela" src="https://img.shields.io/badge/made%20by-Tainá%20Isabela-orange">
